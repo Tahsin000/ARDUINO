@@ -32,7 +32,7 @@
 <ol type="1">
 <li><a href="https://github.com/Tahsin000/ARDUINO/blob/main/EGG%20INCUBATOR/Capture.PNG">Circuit Diagram</a></li>
 <li>Component
-<ol>
+<ol type=1>
 <li><a href="https://store.roboticsbd.com/arduino-bangladesh/94-8-arduino-uno-bangladesh.html">ARDUINO UNO</a></li>
 <li><a href="https://www.daraz.com.bd/aquariums-accessories-water-pumps/">DC MOTOR (10v)</a></li>
 <li><a href="https://store.roboticsbd.com/sensors/667-dht11-temperature-and-relative-humidity-sensor-module-for-arduino-robotics-bangladesh.html">DHT11 (HUMIDITY CONTROLLER)</a></li>

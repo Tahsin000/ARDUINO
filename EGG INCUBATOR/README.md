@@ -63,12 +63,6 @@
 </ol>
 </li>
 <li>
-<h3><strong>Experimental Circuit Setup:&nbsp;</strong></h3>
-<ul>
-<li><img src="C:\Users\Tahsin Abrar\Downloads" alt="" /></li>
-</ul>
-</li>
-<li>
 <h3><a href="https://3dwarehouse.sketchup.com/ar-view/dddab2b3-1740-4511-a05b-d3c5b2e60ab4#model-viewer-no-ar-fallback">3d Model&nbsp;</a></h3>
 </li>
 <li>
@@ -240,4 +234,4 @@
 </li>
 </ul>
 <p>&nbsp;</p>
-<div id="gtx-trans" style="position: absolute; left: 238px; top: 126.537px;">&nbsp;</div>
+<div id="gtx-trans" style="position: absolute; left: 196px; top: 560.775px;">&nbsp;</div>

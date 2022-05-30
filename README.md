@@ -32,7 +32,7 @@
 <ol type="1">
 <li><a href="https://github.com/Tahsin000/ARDUINO/blob/main/EGG%20INCUBATOR/Capture.PNG">Circuit Diagram</a></li>
 <li>Component
-<ol type=1>
+<ol type="1">
 <li><a href="https://store.roboticsbd.com/arduino-bangladesh/94-8-arduino-uno-bangladesh.html">ARDUINO UNO</a></li>
 <li><a href="https://www.daraz.com.bd/aquariums-accessories-water-pumps/">DC MOTOR (10v)</a></li>
 <li><a href="https://store.roboticsbd.com/sensors/667-dht11-temperature-and-relative-humidity-sensor-module-for-arduino-robotics-bangladesh.html">DHT11 (HUMIDITY CONTROLLER)</a></li>
@@ -44,7 +44,7 @@
 <li><a href="https://github.com/Tahsin000/ARDUINO/blob/main/EGG%20INCUBATOR/Code/Code/Code.ino">Code</a></li>
 <li><a href="https://github.com/Tahsin000/ARDUINO/blob/main/EGG%20INCUBATOR/Main.pdsprj">Proteus simulation</a></li>
 <li><a href="https://github.com/Tahsin000/ARDUINO/blob/main/EGG%20INCUBATOR/Code/code.hex">Hex file</a></li>
-<li><a href="https://3dwarehouse.sketchup.com/model/dddab2b3-1740-4511-a05b-d3c5b2e60ab4/EGG-INCUBATOR-EEE-2421-19-03-2022-Tahsin-Abrar">3d Model</a></li>
+<li><a href="https://3dwarehouse.sketchup.com/ar-view/dddab2b3-1740-4511-a05b-d3c5b2e60ab4#model-viewer-no-ar-fallback">3d Model</a></li>
 </ol>
 </li>
 </ul>

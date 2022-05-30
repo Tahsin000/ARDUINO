@@ -45,6 +45,7 @@
 <li><a href="https://github.com/Tahsin000/ARDUINO/blob/main/EGG%20INCUBATOR/Main.pdsprj">Proteus simulation</a></li>
 <li><a href="https://github.com/Tahsin000/ARDUINO/blob/main/EGG%20INCUBATOR/Code/code.hex">Hex file</a></li>
 <li><a href="https://3dwarehouse.sketchup.com/ar-view/dddab2b3-1740-4511-a05b-d3c5b2e60ab4#model-viewer-no-ar-fallback">3d Model</a></li>
+<li>Report</li>
 </ol>
 </li>
 </ul>

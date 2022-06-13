@@ -1,4 +1,4 @@
-<h1>EEE-2421S</h1>
+<h1>EEE-2421</h1>
 <p>A&nbsp;<a href="https://vfds.com/vfds">Variable Frequency Drive (VFD)</a> &nbsp;is a type of motor controller that drives an electric motor by varying the frequency and voltage supplied to the electric motor. Other names for a VFD are&nbsp;<strong>variable speed drive</strong>,&nbsp;<strong>adjustable speed drive</strong>,&nbsp;<strong>adjustable frequency drive</strong>,&nbsp;<strong>AC drive,</strong>&nbsp;M<strong>icrodrive</strong> and&nbsp;<strong>inverter.</strong></p>
 <p>&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</p>
 <h2><strong><strong>How does a Variable Frequency Drive work?</strong></strong></h2>
